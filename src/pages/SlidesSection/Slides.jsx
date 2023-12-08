@@ -6,7 +6,7 @@ import RightSideView from "../../components/CreateSlides/RightSideView";
 
 const Slides = () => {
   return (
-    <Flex justify="space-between" padding="16px 0px">
+    <Flex justify="space-between"  padding="16px 0px">
       <Flex w="20%" border="1px solid red">
         <LeftSideView />
       </Flex>
